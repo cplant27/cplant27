@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=AI+%26+backend+engineer+🤖;building+stuff+that+actually+works+🔧;LLMs+%2C+pipelines%2C+APIs+%2C+all+of+it+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=AI+%26+backend+engineer;building+stuff+that+actually+works;LLMs%2C+pipelines%2C+APIs%2C+all+of+it" />
 </div>
 
 ---
