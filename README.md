@@ -14,7 +14,7 @@ I build practical stuff — LLM tools 🧠, data pipelines 🔧, APIs 🌐, full
 
 My main stack is Python 🐍, TypeScript 📘, and React ⚛️. Most of my time goes toward backend systems and making AI actually useful in production 🚀
 
-I'm early in my career 🌱 but I've been building seriously for a while. Most of my repos are real projects, not homework 📂💪
+I'm early in my career 🌱 but I've been building for a while. Check out my pined repositories. 📂💪
 
 **A few things 👇**
 
@@ -22,10 +22,9 @@ I'm early in my career 🌱 but I've been building seriously for a while. Most o
 - ⚡ Flask and Node on the backend, React on the frontend ⚛️
 - 🧠 I've built LLM integrations, data pipelines, and REST APIs
 - 🎮 I'm into Reading, Gymming, and Running 🏋️
-- 🤷 I don't really have a favorite framework, I just use whatever makes sense
-- 📍 Based in [city]
-- ☕ Powered by [coffee/redbull/whatever you drink]
-- 🔥 Always building, never stopping 🚀💯
+- 📍 Based in Los Angeles, CA 🏖️
+- ☕ Powered by coffee and redbull 🐂
+- 🔥 Always learning, never stopping 🚀💯
 
 ---
 
