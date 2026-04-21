@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Hey%2C%20I'm%20CJ%20👋&fontSize=48&fontAlignY=55&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=180&section=header&text=Hey%2C%20I'm%20CJ%20👋&fontSize=48&fontAlignY=55&animation=twinkling&fontColor=ffffff" />
 </div>
 
 <div align="center">
@@ -41,5 +41,5 @@ CS grad from LA, master's and all — I build ML systems, LLM tools, and backend
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer&animation=twinkling" />
 </div>
