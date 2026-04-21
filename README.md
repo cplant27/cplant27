@@ -29,13 +29,9 @@ I'm early in my career 🌱 but I've been building for a while. Check out my pin
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cplant27&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cplant27&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" height="200"/>
+  &nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" />
 </div>
 
 <div align="center">
