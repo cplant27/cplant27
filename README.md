@@ -29,21 +29,13 @@ I'm early in my career 🌱 but I've been building for a while. Check out my pin
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cplant27&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&rank_icon=github" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cplant27&layout=compact&hide_border=true&theme=tokyonight&langs_count=5" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cplant27&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cplant27&theme=tokyo-night&hide_border=true&area=true" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/cplant27/cplant27/output/pacman.svg" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" />
 </div>
 
 <div align="center">
