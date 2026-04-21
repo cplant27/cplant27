@@ -3,18 +3,14 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=AI+%26+backend+engineer;building+stuff+that+actually+works;LLMs%2C+pipelines%2C+APIs%2C+all+of+it" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=C778DD&center=true&vCenter=true&width=500&lines=AI+%26+backend+engineer;building+stuff+that+actually+works;LLMs%2C+pipelines%2C+APIs%2C+all+of+it" />
 </div>
 
 ---
 
-Software engineer focused on AI and backend systems 🤖⚙️
+CS grad from LA, master's and all — I build ML systems, LLM tools, and backends that make real work faster and easier. Looking for my first role.
 
-I build practical stuff — LLM tools 🧠, data pipelines 🔧, APIs 🌐, full-stack apps 💻. If the problem is interesting I'll figure out the solution 🔍✅
-
-My main stack is Python 🐍, TypeScript 📘, and React ⚛️. Most of my time goes toward backend systems and making AI actually useful in production 🚀
-
-I'm early in my career 🌱 but I've been building for a while. Check out my pinned repositories 📂💪
+---
 
 **A few things 👇**
 
