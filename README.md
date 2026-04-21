@@ -8,13 +8,13 @@
 
 ---
 
-CS grad from LA, master's and all — I build ML systems, LLM tools, and backends that make real work faster and easier. Looking for my first role.
+CS Master's grad from LA. I build ML systems, LLM tools, and backends that make real work faster and easier. Looking for roles in Software Engineering.
 
 ---
 
 **A few things 👇**
 
-- 🐍 I work mostly in Python and TypeScript 📘
+- 🐍 I work mostly in Python and JavaScript 📘
 - ⚡ Flask and Node on the backend, React on the frontend ⚛️
 - 🧠 I've built LLM integrations, data pipelines, and REST APIs
 - 🎮 I'm into Reading, Gymming, and Running 🏋️
