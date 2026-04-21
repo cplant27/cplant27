@@ -16,7 +16,7 @@ CS Master's grad from LA. I build ML systems, LLM tools, and backends that make 
 
 - 🐍 I work mostly in Python and JavaScript 📘
 - ⚡ Flask and Node on the backend, React on the frontend ⚛️
-- 🧠 I've built LLM integrations, data pipelines, and REST APIs
+- 🧠 I've built LLM integrations, data pipelines, and REST APIs 💻
 - 🎮 I'm into Reading, Gymming, and Running 🏋️
 - 📍 Based in Los Angeles, CA 🏖️
 - ☕ Powered by coffee and redbull 🐂
