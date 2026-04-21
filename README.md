@@ -14,7 +14,7 @@ I build practical stuff — LLM tools 🧠, data pipelines 🔧, APIs 🌐, full
 
 My main stack is Python 🐍, TypeScript 📘, and React ⚛️. Most of my time goes toward backend systems and making AI actually useful in production 🚀
 
-I'm early in my career 🌱 but I've been building for a while. Check out my pined repositories. 📂💪
+I'm early in my career 🌱 but I've been building for a while. Check out my pinned repositories 📂💪
 
 **A few things 👇**
 
@@ -43,11 +43,7 @@ I'm early in my career 🌱 but I've been building for a while. Check out my pin
 <br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cplant27/cplant27/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cplant27/cplant27/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/cplant27/cplant27/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://pacman-contrib-graph.vercel.app/api?username=cplant27&theme=dark" />
 </div>
 
 <div align="center">
