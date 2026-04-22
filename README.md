@@ -8,7 +8,7 @@
 
 ---
 
-CS Master's grad from LA. I build ML systems, LLM tools, and backends that make real work faster and easier. Looking for roles in Software Engineering.
+CS Master's graduate based in LA. I build ML systems, LLM tools, and backends that make real work faster and easier. Looking for roles in Software Engineering.
 
 ---
 
