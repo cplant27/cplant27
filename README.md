@@ -31,7 +31,7 @@ CS Master's graduate based in LA. I build ML systems, LLM tools, and backends th
         <img src="https://skillicons.dev/icons?i=python,ts,react&perline=1" />
       </td>
       <td align="center" valign="middle">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cplant27&layout=compact&hide_border=true&theme=tokyonight&langs_count=6&cache_seconds=1800" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cplant27&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" />
       </td>
       <td align="center" valign="middle">
         <img src="https://skillicons.dev/icons?i=nodejs,flask,postgres&perline=1" />
