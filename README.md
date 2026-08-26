@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=2000&color=C778DD&center=true&vCenter=true&width=500&lines=ai+%26+web+development;building+tools+that+save+real+time;%2Acodes+with+swag%2A" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=2000&color=C778DD&center=true&vCenter=true&width=500&lines=ai+%26+web+development;building+tools+that+save+real+time;fraud+detection+%26+RAG+pipelines;open+to+entry-level+SWE+roles+in+LA;%2Acodes+with+swag%2A" />
 </div>
 
 <div align="center">
@@ -18,7 +18,7 @@ CS Master's graduate based in LA. I build ML systems, LLM tools, and backends th
 
 **A few things 👇**
 
-- 🤖 Building AI tools that automate repetitive work
+- 🤖 Building AI tools to automate mundane and time consuming tasks
 - 🐍 Primary stack: Python, JavaScript/TypeScript, React
 - 🧠 Experience with predictive models, LLM integrations, and RAG pipelines
 - 💻 Comfortable across the stack: web apps, APIs, backend systems
