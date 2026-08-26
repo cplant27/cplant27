@@ -44,6 +44,6 @@ CS Master's graduate based in LA. I build ML systems, LLM tools, and backends th
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=60000&color=C778DD&center=true&vCenter=true&width=500&lines=vvv+check+out+my+pinned+projects+vvv" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&pause=30000&color=C778DD&center=true&vCenter=true&width=500&lines=vvv+check+out+my+pinned+projects+vvv" />
 </div>
 
