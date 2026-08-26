@@ -16,7 +16,7 @@
 
 ### About
 
-LMU CS grad (B.S./M.S.), based in LA. I build ML systems, LLM tools, and web apps, with a focus on backend.
+LMU CS grad (B.S./M.S.), based in LA. I enjoy building ML systems, LLM tools, and web apps, with a focus on backend.
 
 Recent work includes a predictive fraud detection model and a natural-language-to-SQL RAG pipeline.
 
