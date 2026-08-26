@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=C778DD&center=true&vCenter=true&width=500&lines=AI+%26+backend+engineer;building+automations+that+save+real+time;%2Acodes+with+swag%2A" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=C778DD&center=true&vCenter=true&width=500&lines=AI+%26+Web+Development;%2Acodes+with+swag%2A" />
 </div>
 
 ---
@@ -15,9 +15,8 @@ CS Master's graduate based in LA. I build ML systems, LLM tools, and backends th
 **A few things 👇**
 
 - 🐍 I work mostly in Python and JavaScript 📘
-- ⚡ Flask and Node on the backend, React on the frontend ⚛️
 - 🧠 I've built LLM integrations, data pipelines, and REST APIs 💻
-- 🎮 I'm into Reading, Gymming, and Running 🏋️
+- 🏋️ I like staying active with Gymming and Running 🏃‍♂️
 - 📍 Based in Los Angeles, CA 🏖️
 - ☕ Powered by coffee and redbull 🐂
 - 🔥 Always learning, never stopping 🚀💯
