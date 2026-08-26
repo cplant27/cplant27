@@ -12,15 +12,22 @@ CS Master's graduate based in LA. I build ML systems, LLM tools, and backends th
 
 ---
 
+<div align="center">
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yourhandle"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</div>
+
+---
+
 **A few things 👇**
 
-- 🤖 AI automation enthusiast ⏲️
-- 🐍 I work mostly in Python and JavaScript 📘
-- 🧠 I've built predictive models, LLM integrations, web apps, & APIs 💻
-- 🏋️ I like staying active with Gymming and Running 🏃‍♂️
-- 📍 Based in Los Angeles, CA 🏖️
-- ☕ Powered by coffee and redbull 🐂
-- 🔥💪 Always learning, never stopping 🚀💯
+- 🤖 Building AI tools that automate repetitive work
+- 🐍 Primary stack: Python, JavaScript/TypeScript, React
+- 🧠 Experience with predictive models, LLM integrations, and RAG pipelines
+- 💻 Comfortable across the stack: web apps, APIs, backend systems
+- 📍 Based in Los Angeles, CA
+- 🏃 Outside of code: gym and running
 
 ---
 
