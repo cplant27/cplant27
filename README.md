@@ -1,15 +1,13 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=180&section=header&text=Hey%2C%20I'm%20CJ%20👋😎&fontSize=48&fontAlignY=55&animation=twinkling&fontColor=ffffff" />
-</div>
 
-<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=2000&color=C778DD&center=true&vCenter=true&width=500&lines=ai+%26+web+development;building+tools+that+save+real+time;fraud+detection+%26+RAG+pipelines;open+to+entry-level+SWE+roles+in+LA;%2Acodes+with+swag%2A" />
-</div>
 
-<div align="center">
-  <a href="mailto:c.plantemoli@example.com"><img src="https://img.shields.io/badge/Email-24273a?style=for-the-badge&logo=gmail&logoColor=C778DD"/></a>
-  <a href="https://linkedin.com/in/charles-plantemoli"><img src="https://img.shields.io/badge/LinkedIn-24273a?style=for-the-badge&logo=linkedin&logoColor=C778DD"/></a>
-  <a href="https://github.com/cplant27/cplant27/raw/main/Plantemoli_Charles_Resume_2026.pdf"><img src="https://img.shields.io/badge/Resume-24273a?style=for-the-badge&logo=googledocs&logoColor=C778DD"/></a>
+  <p>
+    <a href="mailto:c.plantemoli@gmail.com"><img src="https://img.shields.io/badge/Email-c.plantemoli%40gmail.com-24273a?style=for-the-badge&logo=gmail&logoColor=C778DD"/></a>
+    <a href="https://linkedin.com/in/charles-plantemoli"><img src="https://img.shields.io/badge/LinkedIn-24273a?style=for-the-badge&logo=linkedin&logoColor=C778DD"/></a>
+    <a href="https://github.com/cplant27/cplant27/raw/main/Plantemoli_Charles_Resume_2026.pdf"><img src="https://img.shields.io/badge/Resume-24273a?style=for-the-badge&logo=googledocs&logoColor=C778DD"/></a>
+  </p>
 </div>
 
 ---
