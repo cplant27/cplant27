@@ -22,7 +22,7 @@ Recent work includes a predictive fraud detection model and a natural-language-t
 
 Open to entry-level SWE roles in LA.
 
-**A few things 👇**
+**A few more things 👇**
 
 - 🤖 I like building automating mundane and time consuming tasks with AI
 - 🐍 Primary stack: Python, JavaScript/TypeScript, React
