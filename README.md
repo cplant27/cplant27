@@ -19,7 +19,7 @@ CS Master's graduate based in LA. I build ML systems, LLM tools, and backends th
 - 🏋️ I like staying active with Gymming and Running 🏃‍♂️
 - 📍 Based in Los Angeles, CA 🏖️
 - ☕ Powered by coffee and redbull 🐂
-- 🔥 Always learning, never stopping 🚀💯
+- 🔥💪 Always learning, never stopping 🚀💯
 
 ---
 
