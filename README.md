@@ -13,7 +13,7 @@ CS Master's graduate based in LA. I build ML systems, LLM tools, and backends th
 ---
 
 <div align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-24273a?style=for-the-badge&logo=gmail&logoColor=C778DD"/></a>
+  <a href="mailto:c.plantemoli@example.com"><img src="https://img.shields.io/badge/Email-24273a?style=for-the-badge&logo=gmail&logoColor=C778DD"/></a>
   <a href="https://linkedin.com/in/yourhandle"><img src="https://img.shields.io/badge/LinkedIn-24273a?style=for-the-badge&logo=linkedin&logoColor=C778DD"/></a>
   <a href="https://github.com/cplant27/cplant27/raw/main/Plantemoli_Charles_Resume_2026.pdf"><img src="https://img.shields.io/badge/Resume-24273a?style=for-the-badge&logo=googledocs&logoColor=C778DD"/></a>
 </div>
