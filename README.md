@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=C778DD&center=true&vCenter=true&width=500&lines=AI+%26+Web+Development;building+tools+that+save+real+time;%2Acodes+with+swag%2A" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=C778DD&center=true&vCenter=true&width=500&lines=AI+%26+Web+Development;building+tools+that+save+real+time;%2Acodes+with+swag%2A" />
 </div>
 
 <div align="center">
@@ -44,6 +44,6 @@ CS Master's graduate based in LA. I build ML systems, LLM tools, and backends th
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&pause=30000&color=C778DD&center=true&vCenter=true&width=500&lines=vvv+check+out+my+pinned+projects+vvv" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&pause=10000&color=C778DD&center=true&vCenter=true&width=500&lines=vvv+check+out+my+pinned+projects+vvv" />
 </div>
 
