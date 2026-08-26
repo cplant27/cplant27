@@ -24,7 +24,7 @@ Open to entry-level SWE roles in LA.
 
 **A few things 👇**
 
-- 🤖 Building AI tools to automate mundane and time consuming tasks
+- 🤖 I like building automating mundane and time consuming tasks with AI
 - 🐍 Primary stack: Python, JavaScript/TypeScript, React
 - 🧠 Experience with predictive models, LLM integrations, and RAG pipelines
 - 💻 Comfortable across the stack: web apps, APIs, backend systems
