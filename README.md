@@ -6,12 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=C778DD&center=true&vCenter=true&width=500&lines=AI+%26+Web+Development;building+tools+that+save+real+time;%2Acodes+with+swag%2A" />
 </div>
 
----
-
-CS Master's graduate based in LA. I build ML systems, LLM tools, and backends that make real work faster and easier. Looking for roles in Software Engineering.
-
----
-
 <div align="center">
   <a href="mailto:c.plantemoli@example.com"><img src="https://img.shields.io/badge/Email-24273a?style=for-the-badge&logo=gmail&logoColor=C778DD"/></a>
   <a href="https://linkedin.com/in/charles-plantemoli"><img src="https://img.shields.io/badge/LinkedIn-24273a?style=for-the-badge&logo=linkedin&logoColor=C778DD"/></a>
@@ -19,6 +13,8 @@ CS Master's graduate based in LA. I build ML systems, LLM tools, and backends th
 </div>
 
 ---
+
+CS Master's graduate based in LA. I build ML systems, LLM tools, and backends that make real work faster and easier. Looking for roles in Software Engineering.
 
 **A few things 👇**
 
@@ -45,8 +41,4 @@ CS Master's graduate based in LA. I build ML systems, LLM tools, and backends th
       </td>
     </tr>
   </table>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer&animation=twinkling" />
 </div>
