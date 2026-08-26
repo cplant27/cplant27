@@ -14,6 +14,7 @@ CS Master's graduate based in LA. I build ML systems, LLM tools, and backends th
 
 **A few things 👇**
 
+- 🤖 AI automation enthusiast ⏲️
 - 🐍 I work mostly in Python and JavaScript 📘
 - 🧠 I've built predictive models, LLM integrations, web apps, & APIs 💻
 - 🏋️ I like staying active with Gymming and Running 🏃‍♂️
