@@ -15,7 +15,7 @@ CS Master's graduate based in LA. I build ML systems, LLM tools, and backends th
 **A few things 👇**
 
 - 🐍 I work mostly in Python and JavaScript 📘
-- 🧠 I've built LLM integrations, data pipelines, and REST APIs 💻
+- 🧠 I've built predictive models, LLM integrations, web apps, & APIs 💻
 - 🏋️ I like staying active with Gymming and Running 🏃‍♂️
 - 📍 Based in Los Angeles, CA 🏖️
 - ☕ Powered by coffee and redbull 🐂
