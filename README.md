@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=180&section=header&text=Hey%2C%20I'm%20CJ%20👋&fontSize=48&fontAlignY=55&animation=twinkling&fontColor=ffffff" />
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=C778DD&center=true&vCenter=true&width=500&lines=AI+%26+Web+Development;building+tools+that+save+real+time;%2Acodes+with+swag%2A" />
 </div>
 
