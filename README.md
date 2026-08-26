@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=C778DD&center=true&vCenter=true&width=500&lines=AI+%26+Web+Development;building+tools+that+save+real+time;%2Acodes+with+swag%2A" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=C778DD&center=true&vCenter=true&width=500&lines=AI+%26+Web+Development;building+tools+that+save+real+time;%2Acodes+with+swag%2A💪" />
 </div>
 
 ---
