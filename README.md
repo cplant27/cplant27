@@ -14,7 +14,7 @@
 
 ---
 
-CS Master's graduate based in LA. I build ML systems, LLM tools, and backends that make real work faster and easier. Looking for roles in Software Engineering.
+LMU CS grad (B.S./M.S.), based in LA. I build ML systems, LLM tools, and web apps, with a focus on backend. Recent work includes a predictive fraud detection model and a natural-language-to-SQL RAG pipeline. Open to entry-level SWE roles in LA.
 
 **A few things 👇**
 
